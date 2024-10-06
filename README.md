@@ -1,6 +1,6 @@
 ### 💫 About Me:
 ___
--👋 Hi, I’m @vinahuang97
+-👋 Hi, I’m @vinahuang97 </br>
 -👯 Open for innovative web project collaborations.
 -🌱 I’m currently learning Data Analyst
 -💬 Curious about data-analyst? Just ask!
