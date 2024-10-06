@@ -1,10 +1,10 @@
 ### 💫 About Me:
 ___
 -👋 Hi, I’m @vinahuang97 </br>
--👯 Open for innovative web project collaborations.
--🌱 I’m currently learning Data Analyst
--💬 Curious about data-analyst? Just ask!
--😄 Pronouns: Vina
+-👯 Open for innovative web project collaborations. </br>
+-🌱 I’m currently learning Data Analyst </br>
+-💬 Curious about data-analyst? Just ask! </br>
+-😄 Pronouns: Vina </br>
 
 ### 🌐 Socials:
 ___
